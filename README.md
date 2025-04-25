@@ -5,8 +5,7 @@ This project analyzes NHL draft data to understand what makes a player successfu
 ## 📂 Files
 - `nhl_draft_analysis.ipynb`: Python notebook for cleaning, feature engineering, and modeling
 - `cleaned_nhl_draft_for_dashboard.csv`: Cleaned dataset used for dashboards
-- `dashboard.pbix` (optional): Power BI dashboard file
-- `images/`: Screenshots of dashboard and plots
+- `Power BI Dashboard pdf`: PDF containing dashboard and plots
 
 ## 🚀 Highlights
 - Cleaned 12,000+ player records, filtered for completeness
